@@ -92,7 +92,6 @@ ___
 
 ## 🛠️ Notes
 
-- Duplicacy Web Edition does **not** send logs via webhook, so log snippet shows "(No log available)".
 - `duration` is calculated from `start_time` and `end_time`.
 - Upload size is calculated by summing all three upload chunk types.
 
@@ -114,8 +113,6 @@ ___
 📅 Result: Success
 ⏱ Duration: 00:00:06
 💾 Uploaded: 10.00 MB
-📄 Log Snippet:
-(No log available)
 ```
 
 ___

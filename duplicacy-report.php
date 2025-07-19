@@ -37,8 +37,7 @@ $message = "🛡️ *Duplicacy Backup Report*\n"
          . "🖥️ Host: $hostname\n"
          . "📅 Result: $result\n"
          . "⏱ Duration: $duration\n"
-         . "💾 Uploaded: {$sizeMB} MB\n\n"
-         . "📄 Log Snippet:\n(No log available)"; // No logs sent by Duplicacy
+         . "💾 Uploaded: {$sizeMB} MB\n\n";
 
 // === SEND TO PUSHOVER ===
 curl_setopt_array($ch = curl_init(), [
