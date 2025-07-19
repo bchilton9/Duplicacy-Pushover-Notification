@@ -67,7 +67,7 @@ In **Duplicacy Web Edition**:
 https://yourdomain.com/dup2push/duplicacy-report.php
 ```
 
-✅ You may uncheck "Send report on failure" to get success notifications too.
+✅ You may check "Send report on failure" to get failed notifications too.
 
 ---
 
