@@ -1,3 +1,7 @@
+![License](https://img.shields.io/github/license/bchilton9/Duplicacy-Pushover-Notification)
+![Last Commit](https://img.shields.io/github/last-commit/bchilton9/Duplicacy-Pushover-Notification)
+![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777bb4?logo=php&logoColor=white)
+
 # Duplicacy to Pushover Webhook
 
 A lightweight PHP script that receives webhook POSTs from [Duplicacy Web Edition](https://duplicacy.com) and sends formatted backup reports to your [Pushover](https://pushover.net) account.
